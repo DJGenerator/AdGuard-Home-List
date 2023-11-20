@@ -1,4 +1,4 @@
-# AdGuard-Home-List
+# AdGuard Home List
 This is a ***VERY EARLY*** Work In Progress!
 
 Add the following line to AdGuard Homes "DNS Allowlists"
