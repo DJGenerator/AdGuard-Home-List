@@ -1,3 +1,3 @@
-@@||wwe.androidpolice.com^$important
+@@||androidpolice.com^$important
 @@||madhouse.webhop.me^$important
 @@||qcc.qualcomm.com^$important
