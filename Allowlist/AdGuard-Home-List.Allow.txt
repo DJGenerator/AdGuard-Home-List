@@ -1,3 +1,4 @@
 @@||androidpolice.com^$important
 @@||madhouse.webhop.me^$important
 @@||qcc.qualcomm.com^$important
+@@||wordfence.com^$important
