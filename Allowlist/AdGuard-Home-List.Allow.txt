@@ -10,3 +10,4 @@
 @@||beacons5.gvt3.com^$important
 @@||logservice-dre.platform.dbankcloud.cn^$important
 @@||ssl.google-analytics.com^$important
+@@||history.google.com^$important
