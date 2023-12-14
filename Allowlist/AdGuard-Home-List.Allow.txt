@@ -1,6 +1,9 @@
 @@||androidpolice.com^$important
+
+# My server stuff
 @@||madhouse.webhop.me^$important
 @@||wordfence.com^$important
+@@||wsl.localhost^$important
 
 # Google
 @@||beacons.gcp.gvt2.com^$important
