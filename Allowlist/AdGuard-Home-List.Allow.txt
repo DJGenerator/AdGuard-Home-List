@@ -1,4 +1,5 @@
 @@||androidpolice.com^$important
+@@||succeedscene.com^$important
 @@||yearinreviewapi.azurewebsites.net^$important
 
 # My server stuff
