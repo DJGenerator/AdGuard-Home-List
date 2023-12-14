@@ -2,3 +2,5 @@
 @@||madhouse.webhop.me^$important
 @@||qcc.qualcomm.com^$important
 @@||wordfence.com^$important
+@@||beacons.gcp.gvt2.com^$important
+@@||beacons.gvt2.com^$important
