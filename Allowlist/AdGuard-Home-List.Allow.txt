@@ -15,12 +15,12 @@
 @@||www.googletagmanager.com^$important
 
 # Honor phones
-@@||qcc.qualcomm.com^$important
+@@||dnkeeper.platform.dbankcloud.cn^$important
+@@||events.launchdarkly.com^$important
 @@||grs.dbankcloud.asia^$important
 @@||grs.dbankcloud.cn^$important
 @@||grs.dbankcloud.com^$important
 @@||grs.dbankcloud.eu^$important
 @@||grs.platform.dbankcloud.ru^$important
-@@||dnkeeper.platform.dbankcloud.cn^$important
 @@||logservice-dre.platform.dbankcloud.cn^$important
-
+@@||qcc.qualcomm.com^$important
