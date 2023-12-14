@@ -1,13 +1,24 @@
 @@||androidpolice.com^$important
 @@||madhouse.webhop.me^$important
-@@||qcc.qualcomm.com^$important
 @@||wordfence.com^$important
+
+# Google
 @@||beacons.gcp.gvt2.com^$important
 @@||beacons.gvt2.com^$important
 @@||beacons2.gvt2.com^$important
 @@||beacons4.gvt2.com^$important
 @@||beacons5.gvt2.com^$important
 @@||beacons5.gvt3.com^$important
-@@||logservice-dre.platform.dbankcloud.cn^$important
 @@||ssl.google-analytics.com^$important
 @@||history.google.com^$important
+
+# Honor phones
+@@||qcc.qualcomm.com^$important
+@@||grs.dbankcloud.asia^$important
+@@||grs.dbankcloud.cn^$important
+@@||grs.dbankcloud.com^$important
+@@||grs.dbankcloud.eu^$important
+@@||grs.platform.dbankcloud.ru^$important
+@@||dnkeeper.platform.dbankcloud.cn^$important
+@@||logservice-dre.platform.dbankcloud.cn^$important
+
