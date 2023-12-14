@@ -10,8 +10,9 @@
 @@||beacons4.gvt2.com^$important
 @@||beacons5.gvt2.com^$important
 @@||beacons5.gvt3.com^$important
-@@||ssl.google-analytics.com^$important
 @@||history.google.com^$important
+@@||ssl.google-analytics.com^$important
+@@||www.googletagmanager.com^$important
 
 # Honor phones
 @@||qcc.qualcomm.com^$important
