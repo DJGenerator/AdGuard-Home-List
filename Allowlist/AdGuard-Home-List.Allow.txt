@@ -5,6 +5,7 @@
 # My server stuff
 @@||madhouse.webhop.me^$important
 @@||wordfence.com^$important
+@@||api.pushover.net^$important
 @@||wsl.localhost^$important
 
 # Google
