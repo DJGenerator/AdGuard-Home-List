@@ -1,6 +1,5 @@
 @@||androidpolice.com^$important
 @@||succeedscene.com^$important
-@@||yearinreviewapi.azurewebsites.net^$important
 @@||cookielaw.org^$important
 @@||cdn.cookielaw.org^$important
 
@@ -9,6 +8,10 @@
 @@||wordfence.com^$important
 @@||api.pushover.net^$important
 @@||wsl.localhost^$important
+
+# Microsoft
+@@||yearinreviewapi.azurewebsites.net^$important
+@@||browser.events.data.msn.com^$important
 
 # Google
 @@||beacons.gcp.gvt2.com^$important
