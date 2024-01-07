@@ -3,6 +3,7 @@
 @@||cookielaw.org^$important
 @@||cdn.cookielaw.org^$important
 @@||geolocation.onetrust.com^$important
+@@||cdn.listrakbi.com^$important
 
 # My server stuff
 @@||madhouse.webhop.me^$important
