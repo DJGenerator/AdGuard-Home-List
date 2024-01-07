@@ -1,6 +1,7 @@
 @@||androidpolice.com^$important
 @@||succeedscene.com^$important
 @@||yearinreviewapi.azurewebsites.net^$important
+@@||cdn.cookielaw.org^$important
 
 # My server stuff
 @@||madhouse.webhop.me^$important
