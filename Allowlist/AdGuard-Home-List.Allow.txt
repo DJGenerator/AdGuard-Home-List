@@ -1,6 +1,7 @@
 @@||androidpolice.com^$important
 @@||succeedscene.com^$important
 @@||yearinreviewapi.azurewebsites.net^$important
+@@||cookielaw.org^$important
 @@||cdn.cookielaw.org^$important
 
 # My server stuff
