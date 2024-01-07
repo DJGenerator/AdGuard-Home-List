@@ -10,6 +10,8 @@
 @@||wordfence.com^$important
 @@||api.pushover.net^$important
 @@||wsl.localhost^$important
+@@||google-analytics.com^$important
+@@||region1.google-analytics.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
