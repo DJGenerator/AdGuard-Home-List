@@ -2,6 +2,7 @@
 @@||succeedscene.com^$important
 @@||cookielaw.org^$important
 @@||cdn.cookielaw.org^$important
+@@||geolocation.onetrust.com^$important
 
 # My server stuff
 @@||madhouse.webhop.me^$important
