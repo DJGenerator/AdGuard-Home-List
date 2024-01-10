@@ -17,7 +17,6 @@
 @@||yearinreviewapi.azurewebsites.net^$important
 @@||browser.events.data.msn.com^$important
 @@|uhfportal.azurewebsites.net^$important
-@@||srtb.msn.com^$important
 
 # Google
 @@||beacons.gcp.gvt2.com^$important
