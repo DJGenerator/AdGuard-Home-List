@@ -12,6 +12,7 @@
 @@||wsl.localhost^$important
 @@||google-analytics.com^$important
 @@||region1.google-analytics.com^$important
+@@||portainer.io/^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
