@@ -12,6 +12,8 @@
 @@||wsl.localhost^$important
 @@||google-analytics.com^$important
 @@||region1.google-analytics.com^$important
+@@||googletagservices.com^$important
+@@||www.googletagservices.com^$important
 @@||portainer.io/^$important
 @@||www.portainer.io/^$important
 
