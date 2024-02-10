@@ -18,6 +18,7 @@
 @@||www.portainer.io/^$important
 @@||monsterinsights.com^$important
 @@||www.monsterinsights.com^$important
+@@||plugin-cdn.monsterinsights.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
