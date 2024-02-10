@@ -16,6 +16,8 @@
 @@||www.googletagservices.com^$important
 @@||portainer.io/^$important
 @@||www.portainer.io/^$important
+@@||monsterinsights.com^$important
+@@||www.monsterinsights.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
