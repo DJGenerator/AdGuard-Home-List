@@ -19,6 +19,8 @@
 @@||monsterinsights.com^$important
 @@||www.monsterinsights.com^$important
 @@||plugin-cdn.monsterinsights.com^$important
+@@||googleapis.com^$important
+@@||www.googleapis.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
