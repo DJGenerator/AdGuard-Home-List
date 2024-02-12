@@ -21,6 +21,7 @@
 @@||plugin-cdn.monsterinsights.com^$important
 @@||googleapis.com^$important
 @@||www.googleapis.com^$important
+@@||oauth2.googleapis.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
