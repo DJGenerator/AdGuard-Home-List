@@ -24,6 +24,8 @@
 @@||googleapis.com^$important
 @@||www.googleapis.com^$important
 @@||oauth2.googleapis.com^$important
+@@||addtoany.com^$important
+@@||static.addtoany.com^$important
 
 # Microsoft
 @@||yearinreviewapi.azurewebsites.net^$important
