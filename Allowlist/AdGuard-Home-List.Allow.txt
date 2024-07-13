@@ -43,6 +43,7 @@
 @@||history.google.com^$important
 @@||ssl.google-analytics.com^$important
 @@||www.googletagmanager.com^$important
+@@||marketingplatform.google.com^$important
 
 # Honor phones
 @@||dnkeeper.platform.dbankcloud.cn^$important
