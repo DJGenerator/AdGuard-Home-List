@@ -55,3 +55,6 @@
 @@||grs.platform.dbankcloud.ru^$important
 @@||logservice-dre.platform.dbankcloud.cn^$important
 @@||qcc.qualcomm.com^$important
+
+# Sites wrongly blocked in other folks lists
+@@||spinninrecords.com^$important
